@@ -11,7 +11,7 @@ Proyecto realizado de manera individual.
   <li>Webpack</li>
   <li>TailwindCSS</li>
   <li>Dropzone</li>
-  <li>Leaflet</li>
+  <li>Leaflet</li>  
   <li>JWT</li>
   <li>y muchó mas...</li>
 </ul>

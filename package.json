@@ -1,11 +1,9 @@
 {
   "name": "bienesraices.jazziel",
   "version": "1.0.0",
-  "description": "\"Poryecto hecho del curso de Udemy Node.js - Bootcamp Desarrollo Web inc. MVC y REST APIs",
+  "description": "Proyecto hecho del curso de Udemy Node.js - Bootcamp Desarrollo Web inc. MVC y REST APIs",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JazzoLopez/BienesRaices.git"
@@ -30,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/JazzoLopez/BienesRaices/issues"
   },
-  "homepage": "https://github.com/JazzoLopez/BienesRaices#readme"
+  "homepage": "https://github.com/JazzoLopez/BienesRaices#readme",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
 }
