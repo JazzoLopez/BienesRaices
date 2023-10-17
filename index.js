@@ -1,4 +1,5 @@
-const express = require('express')  //*Extraer la dependencia que hemos descargado
+ //*const express = require('express'); Extraer la dependencia que hemos descargado, esta es la forma anterior
+import express from 'express'; //* Uso de ECm6
 
 //*Crear la app, esta contiene toda la info de express
 const app = express ();
