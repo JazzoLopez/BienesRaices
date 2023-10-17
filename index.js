@@ -1,0 +1,1 @@
+console.log("Hola mundo, estoy cambiandolo mientras nodemon inicia, ejecuta y finaliza!!"); //* Prueba para ejecutar el script en la terminal 

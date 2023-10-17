@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Proyecto hecho del curso de Udemy Node.js - Bootcamp Desarrollo Web inc. MVC y REST APIs",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "nodemon index.js",
+    "server": "nodemon index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JazzoLopez/BienesRaices.git"
@@ -30,6 +33,7 @@
   },
   "homepage": "https://github.com/JazzoLopez/BienesRaices#readme",
   "devDependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
   }
 }
