@@ -16,3 +16,11 @@ Proyecto realizado de manera individual.
   <li>y muchó mas...</li>
 </ul>
 
+## 
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=pug,tailwind,mysql,express,nodejs"/>
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/STATUS-FINALIZADO-blue"/>
+ 
+</p>
