@@ -19,7 +19,7 @@ Proyecto realizado de manera individual.
 
 ## Si deseas clonar este repositorio:
   
-   ```javascript
+   ```cmd
   git clone https://github.com/usuario/tu-repositorio.git
 ```
 <p align="center">
