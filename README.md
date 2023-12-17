@@ -16,9 +16,17 @@ Proyecto realizado de manera individual.
   <li>y muchó mas...</li>
 </ul>
 <hr>
+
+## Si deseas clonar este repositorio:
+  
+   ```javascript
+  git clone https://github.com/usuario/tu-repositorio.git
+```
 <p align="center">
     <img src="https://skillicons.dev/icons?i=pug,tailwind,mysql,express,nodejs"/>
   <br>
+<br>
+
   <br>
   <img src="https://img.shields.io/badge/STATUS-En proceso-yellow"/>
  
